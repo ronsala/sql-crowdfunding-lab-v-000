@@ -5,6 +5,6 @@ INSERT INTO projects VALUES (4, 'self-driving golf cart', 'sports', 10000, "2020
 INSERT INTO projects VALUES (5, 'z programming language', 'computers', 1000, "2018-10-31", "2019-06-30");
 INSERT INTO projects VALUES (6, 'pluto base', 'space', 100000000, "2018-11-15", "2021-06-30");
 INSERT INTO projects VALUES (7, 'epic poetry generator', 'computers', 20000, "2019-05-31", "2025-06-30");
-INSERT INTO projects VALUES (8, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
-INSERT INTO projects VALUES (9, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
-INSERT INTO projects VALUES (10, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
+INSERT INTO projects VALUES (8, 'bitcoin eliminator', 'computers', 100, "2018-07-31", "2019-06-30");
+INSERT INTO projects VALUES (9, 'dna scrambler', 'medicine', 19000, "2018-12-31", "2020-06-30");
+INSERT INTO projects VALUES (10, 'flubber pole vaut', 'sports', 1490000, "2018-03-01", "2018-06-30");
