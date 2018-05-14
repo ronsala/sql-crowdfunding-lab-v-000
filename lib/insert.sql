@@ -1,10 +1,10 @@
 INSERT INTO projects VALUES (1, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
 INSERT INTO projects VALUES (2, 'head transplant', 'medicine', 20000000, "2019-05-31", "2019-06-30");
-INSERT INTO projects VALUES (3, 'trumpectomy', 'politics', 30000000, "2018-05-31", "2018-06-30");
-INSERT INTO projects VALUES (4, 'self-driving golf cart', 'transport', 10000, "2018-05-31", "2018-06-30");
-INSERT INTO projects VALUES (5, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
-INSERT INTO projects VALUES (6, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
-INSERT INTO projects VALUES (7, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
+INSERT INTO projects VALUES (3, 'trumpectomy', 'politics', 30000000, "2018-07-31", "2018-08-30");
+INSERT INTO projects VALUES (4, 'self-driving golf cart', 'sports', 10000, "2020-05-31", "2021-06-30");
+INSERT INTO projects VALUES (5, 'z programming language', 'computers', 1000, "2018-10-31", "2019-06-30");
+INSERT INTO projects VALUES (6, 'pluto base', 'space', 100000000, "2018-11-15", "2021-06-30");
+INSERT INTO projects VALUES (7, 'epic poetry generator', 'computers', 20000, "2019-05-31", "2025-06-30");
 INSERT INTO projects VALUES (8, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
 INSERT INTO projects VALUES (9, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
 INSERT INTO projects VALUES (10, 'moon base', 'space', 10000000, "2018-05-31", "2018-06-30");
