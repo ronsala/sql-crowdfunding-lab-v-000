@@ -8,3 +8,24 @@ INSERT INTO projects VALUES (7, 'epic poetry generator', 'computers', 20000, "20
 INSERT INTO projects VALUES (8, 'bitcoin eliminator', 'computers', 100, "2018-07-31", "2019-06-30");
 INSERT INTO projects VALUES (9, 'dna scrambler', 'medicine', 19000, "2018-12-31", "2020-06-30");
 INSERT INTO projects VALUES (10, 'flubber pole vaut', 'sports', 1490000, "2018-03-01", "2018-06-30");
+
+INSERT INTO users VALUES (1, 'bob', 47);
+INSERT INTO users VALUES (2, 'connie', 57);
+INSERT INTO users VALUES (3, 'ivan', 97);
+INSERT INTO users VALUES (4, 'hal', 7);
+INSERT INTO users VALUES (5, 'dave', 17);
+INSERT INTO users VALUES (6, 'lee', 75);
+INSERT INTO users VALUES (7, 'skip', 89);
+INSERT INTO users VALUES (8, 'leo', 15);
+INSERT INTO users VALUES (9, 'willie', 13);
+INSERT INTO users VALUES (10, 'sara', 18);
+INSERT INTO users VALUES (11, 'mohammed', 50);
+INSERT INTO users VALUES (12, 'avi', 51);
+INSERT INTO users VALUES (13, 'noah', 2);
+INSERT INTO users VALUES (14, 'gus', 83);
+INSERT INTO users VALUES (15, 'fanny', 33);
+INSERT INTO users VALUES (16, 'sally', 23);
+INSERT INTO users VALUES (17, 'annie', 17);
+INSERT INTO users VALUES (18, 'hank', 28);
+INSERT INTO users VALUES (19, 'ron', 48);
+INSERT INTO users VALUES (20, 'becca', 29);
