@@ -8,8 +8,10 @@
 
 # selects_the_titles_of_all_projects_and_their_pledge_amounts_alphabetized_by_name
 def
-  "SELECT projects.title, pledges.amount
-  FROM projects, pledges
+  "SELECT title
+  FROM projects
+  LEFT OUTER JOIN pledges(amount)
+  ON projects.id = pledges.project_id
   SORT BY projects.title ASC;"
 end
 
